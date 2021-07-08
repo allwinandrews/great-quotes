@@ -7,7 +7,7 @@ const DUMMY_QUOTES = [
     text: "Allwin Rules",
   },
   {
-    id: "q1",
+    id: "q2",
     author: "Max",
     text: "Learning React is fun",
   },
